@@ -1,0 +1,26 @@
+# Dependências
+node_modules/
+
+# Turborepo
+.turbo/
+
+# Builds
+dist/
+build/
+coverage/
+
+# Expo / React Native
+.expo/
+android/
+ios/
+*.jks
+*.keystore
+
+# Variáveis de ambiente
+.env
+.env*.local
+
+# Logs e SO
+*.log
+.DS_Store
+Thumbs.db
